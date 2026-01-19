@@ -52,7 +52,7 @@ The project is fully configured and ready to build.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [your-repo-url]
+    git clone https://github.com/YazanAesmael/EchoVerse
     ```
 
 2.  **Get your API Key:**
