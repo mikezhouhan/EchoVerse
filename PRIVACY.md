@@ -20,6 +20,10 @@ EchoMe uses third-party AI services, such as Google Gemini, to analyze chat cont
 
 Echo profiles, memories, and conversation history may be stored locally on your device using the app database. You can delete Echo records from within the app where supported.
 
+## Data Deletion Requests
+
+To request deletion of data associated with EchoMe, email us at supermanzhouhan@gmail.com with the subject "EchoMe data deletion request". Please describe the data you want deleted. We will delete data under our control and will explain if any data is stored only on your device, has already been deleted, or must be retained for legal or security reasons.
+
 ## Data Sharing
 
 We do not sell personal data. We do not share your content with advertisers. Data is shared with third-party AI providers only as needed to provide the AI features you request, or when required by law.
@@ -36,4 +40,4 @@ EchoMe is not intended for children under 13. Do not use the app to process chil
 
 For questions about this policy, contact:
 
-kid1412621@gmail.com
+supermanzhouhan@gmail.com
